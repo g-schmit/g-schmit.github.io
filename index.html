@@ -1,9 +1,62 @@
 <!doctype html>
 <html>
   <head>
-    <title>Guillaume Schmit</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guillaume Schmit - PhD student in AI and data representation</title>
+    <style>
+        body {
+            font-family: Bradley Hand, monospace;
+            margin: 0;
+            padding: 0;
+            display: relative;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+        }
+        
+        .container {
+            display: flex;
+            flex-direction: row;
+            width: max-content;
+            height: 100vh;
+            padding-left: 5vh;
+        }
+        
+        .text {
+            flex: 1;
+            text-align: left;
+            padding-top: 2vh;
+            padding-left: 5vh;
+            font-size: 500%;
+        }
+        
+        .image {
+            max-width: fit-content;
+            flex: 1;
+            padding: 5vh;
+        }
+        
+        .image img {
+            vertical-align: middle;
+            height: 80vh;
+        }
+    </style>
   </head>
   <body>
-    
+    <div class="container">
+        <div class="image">
+            <img src="imgs/me.jpg" alt="Picture of Guillaume">
+        </div>
+        <div class="text">
+            <h1>Guillaume Schmit</h1>
+            <h2>PhD student in computer science</h2><br/>
+            <h2>LORIA/IRSN</h2><br/>
+            <h2>Université de Lorraine, Nancy, France</h2><br/>
+            <br/>
+            <p>Guillaume Schmit is a PhD student in AI and data representation.</p>
+        </div>
+    </div>
   </body>
 </html>
