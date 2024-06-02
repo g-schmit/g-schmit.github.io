@@ -19,7 +19,7 @@ Bloodthorn,8.0,2.5,183.0,Steel Ingot,Steel,Dagger,One-Handed
 Borvir's Dagger,8.0,4.0,18.0,Refined Moonstone,Elven,Dagger,One-Handed
 Daedric Dagger,11.0,6.0,500.0,Ebony Ingot,Daedric,Dagger,One-Handed
 Dragonbone Dagger ,12.0,6.5,600.0,Dragon Bone,Dragon,Dagger,One-Handed
-Dwarven Dagger,7.0,3.5,55.0,Dwarven Metal Ingot,Dwarven,Dagger,One-Handed
+Dwarven Dagger,,3.5,55.0,Dwarven Metal Ingot,Dwarven,Dagger,One-Handed
 Ebony Dagger,10.0,5.0,290.0,Ebony Ingot,Ebony,Dagger,One-Handed
 Elven Dagger,8.0,4.0,95.0,Refined Moonstone,Elven,Dagger,One-Handed
 Glass Dagger,9.0,4.5,165.0,Refined Malachite,Glass,Dagger,One-Handed
@@ -53,7 +53,7 @@ Ebony Sword,,,,Ebony Ingot,Ebony,Sword,One-Handed
 Eduj,11.0,9.0,300.0,Steel Ingot,Steel,Sword,One-Handed
 Elven Sword,11.0,13.0,235.0,Refined Moonstone,Elven,Sword,One-Handed
 Forsworn Sword,10.0,13.0,70.0,Steel Ingot,Steel,Sword,One-Handed
-Glass Sword,12.0,14.0,410.0,Refined Malachite,Glass,Sword,One-Handed
+Glass Sword,,14.0,410.0,Refined Malachite,Glass,Sword,One-Handed
 Grimsever,12.0,14.0,727.0,Refined Malachite,Glass,Sword,One-Handed
 Harkon's Sword ,8.0,9.0,1472.0,Steel Ingot,Steel,Sword,One-Handed
 Herebane's Courage,11.0,13.0,639.0,Refined Moonstone,Elven,Sword,One-Handed
