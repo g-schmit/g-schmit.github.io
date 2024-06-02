@@ -2,7 +2,7 @@ Name,Damage,Weight,Gold,Upgrade,Perk,Type,Category
 Ancient Nord Battle Axe,18.0,22.0,28.0,Steel Ingot,Steel,Battleaxe,Two-Handed
 Daedric Battleaxe,25.0,27.0,2750.0,Ebony Ingot,Daedric,Battleaxe,Two-Handed
 Dragonbone Battleaxe ,26.0,30.0,3000.0,Dragon Bone,Dragon,Battleaxe,Two-Handed
-Dwarven Battleaxe,20.0,23.0,300.0,Dwarven Metal Ingot,Dwarven,Battleaxe,Two-Handed
+,20.0,23.0,300.0,Dwarven Metal Ingot,Dwarven,Battleaxe,Two-Handed
 Ebony Battleaxe,23.0,26.0,1585.0,Ebony Ingot,Ebony,Battleaxe,Two-Handed
 Elven Battleaxe,21.0,24.0,520.0,Refined Moonstone,Elven,Battleaxe,Two-Handed
 Glass Battleaxe,22.0,25.0,900.0,Refined Malachite,Glass,Battleaxe,Two-Handed
