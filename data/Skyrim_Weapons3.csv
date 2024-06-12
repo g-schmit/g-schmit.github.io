@@ -12,8 +12,8 @@ Nordic Battleaxe DR,21.0,23.0,650.0,Quicksilver Ingot,Advanced,battleaxe,Two-Han
 Orcish Battleaxe,19.0,25.0,165.0,Orichalcum Ingot,Orcish,Battleaxe,Two-Handed
 Skyforge Steel Battleaxe,21.0,21.0,150.0,Steel Ingot,Steel,Battleaxe,Two-Handed
 Stalhrim Battleaxe ,24.0,25.0,2150.0,Stalhrim,Ebony,Battleaxe,Two-Handed
-Steel Battleaxe of Fiery Souls,18.0,21.0,320.0,Steel Ingot,Steel,Battleaxe,Two-Handed
-Steel Battleaxe,18.0,21.0,100.0,Steel Ingot,Steel,Battleaxe,Two-Handed
+Steel Battleaxe of Fiery Souls,18.0,21.0,320.0,Steel Ingot,Steel,Battle axe,Two-Handed
+Steel Battleaxe,18.0,21.0,100.0,Steel Ingot,Steel,Battle axe,Two-Handed
 Blade of Woe,12.0,7.0,880.0,None required,Steel,Dagger,One-Handed
 Bloodthorn,8.0,2.5,183.0,Steel Ingot,Steel,Dagger,One-Handed
 Borvir's Dagger,8.0,4.0,18.0,Refined Moonstone,Elven,Dagger,One-Handed
@@ -31,11 +31,11 @@ Steel Dagger,5.0,2.5,18.0,Steel Ingot,Steel,Dagger,One-Handed
 Valdr's Lucky Dagger,5.0,2.5,15.0,Steel Ingot,Steel,Dagger,One-Handed
 Daedric Mace,16.0,20.0,1750.0,Ebony Ingot,Daedric,Mace,One-Handed
 Dragonbone Mace ,17.0,22.0,2000.0,Dragon Bone,Dragon,Mace,One-Handed
-Dwarven Mace,12.0,16.0,190.0,Dwarven Metal Ingot,Dwarven,Mace,One-Handed
+Dwarven Mace,12.0,16.0,190.0,Dwarven Metal Ingot,Dwarven,mace,One-Handed
 Ebony Mace,16.0,19.0,1000.0,Ebony Ingot,Ebony,Mace,One-Handed
 Elven Mace,13.0,17.0,330.0,Refined Moonstone,Elven,Mace,One-Handed
  ,13.0,17.0,330.0,Refined Moonstone,,Mace,One-Handed
-Glass Mace,14.0,18.0,575.0,Refined Malachite,Glass,Mace,One-Handed
+Glass Mace,14.0,18.0,575.0,Refined Malachite,Glass,mace,One-Handed
 Horksbane ,10.0,14.0,250.0,Steel Ingot,Steel,Mace,One-Handed
 Nordic Mace ,13.0,16.0,410.0,Quicksilver Ingot,Advanced,Mace,One-Handed
 Orcish Mace,11.0,15.0,105.0,Orichalcum Ingot,Orcish,Mace,One-Handed
